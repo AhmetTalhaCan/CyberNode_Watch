@@ -1,0 +1,65 @@
+.container {
+    max-width: 1200px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.hidden {
+    display: none;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 50px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+}
+
+.buttons {
+    display: flex;
+    column-gap: 50px;
+}
+
+button {
+    width: 15%;
+    border: 1px solid black;
+    height: 40px;
+    margin: 20px 0;
+}
+
+button#submit-user,
+button#delete-user{
+    margin-right: 50px;
+}
+
+button.green {
+    color: white;
+    background-color: rgb(0, 175, 0);
+}
+
+button.red {
+    color: white;
+    background-color: red;
+}
+
+button.green:hover {
+    background-color: green;
+    transition: .2s ease all;
+}
+
+button.red:hover {
+    background-color: red;
+    background-color: rgb(175, 0, 0);
+}

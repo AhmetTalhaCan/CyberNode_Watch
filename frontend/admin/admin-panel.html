@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="admin-panel.css">
+    <title>Admin Panel</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Admin Panel</h1>
+
+        <!-- Form for adding new user -->
+        <div id="add-user-form" class="hidden">
+            <h2>Add New Device</h2>
+            <label for="device-name">Device Name: </label>
+            <input type="text" id="add-device-name" placeholder="Enter Device Name">
+            <br><br>
+            <label for="ip-address">IP Address: </label>
+            <input type="text" id="ip-address" placeholder="Enter IP Address">
+            <br><br>
+            <button id="submit-user">Submit</button>
+            <button class="cancel-user">Cancel</button>
+        </div>
+
+        <!-- Form for deleting a device -->
+        <div id="delete-user-form" class="hidden">
+            <h2>Delete Device</h2>
+            <label for="device-name">Device Name: </label>
+            <input type="text" id="delete-device-name" placeholder="Enter Device Name">
+            <br><br>
+            <button id="delete-user">Submit</button>
+            <button class="cancel-user">Cancel</button>
+        </div>
+
+
+        <!-- Table to display devices -->
+        <table id="users-table">
+
+        </table>
+
+        <!-- Buttons for adding and deleting users -->
+        <div class="buttons">
+            <button class="green" id="add-user-btn">Add Device</button>
+            <button class="red" id="delete-user-btn">Delete Device</button>
+        </div>
+
+        <script src="admin-panel.js"></script>
+    </div>
+</body>
+
+</html>

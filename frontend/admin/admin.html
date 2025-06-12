@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin - User Panel</title>
+    <link rel="stylesheet" href="./admin.css">
+</head>
+
+<body>
+    <div class="container">
+        <div id="login-container">
+            <h2>Login to Admin Panel</h2>
+            <form id="login-form">
+                <label for="username">Admin Email:</label>
+                <input type="text" id="username" name="username" required>
+
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+
+                <button type="submit" id="login-btn">Login</button>
+            </form>
+            <p id="error-message" style="color: red;"></p>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>
+    <script src="./admin.js"></script>
+    <script src="../user/index.js"></script>
+</body>
+
+</html>

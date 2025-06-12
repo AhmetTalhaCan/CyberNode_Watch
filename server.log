@@ -1,0 +1,52 @@
+2025-06-03 21:56:13,959 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-03 21:56:14,371 - DEBUG - https://api.ipify.org:443 "GET /?format=json HTTP/1.1" 200 None
+2025-06-03 21:56:14,402 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.206.106:8080
+2025-06-03 21:56:14,402 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-03 22:00:45,490 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-03 22:00:45,906 - DEBUG - https://api.ipify.org:443 "GET /?format=json HTTP/1.1" 200 None
+2025-06-03 22:00:45,914 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.206.106:8080
+2025-06-03 22:00:45,915 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-03 22:02:03,554 - INFO - 127.0.0.1 - - [03/Jun/2025 22:02:03] "[35m[1mPOST /frontend/receive_device_info HTTP/1.1[0m" 500 -
+2025-06-03 22:02:39,538 - INFO - 127.0.0.1 - - [03/Jun/2025 22:02:39] "[35m[1mPOST /frontend/receive_device_info HTTP/1.1[0m" 500 -
+2025-06-03 22:05:48,060 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-03 22:05:48,468 - DEBUG - https://api.ipify.org:443 "GET /?format=json HTTP/1.1" 200 None
+2025-06-03 22:05:48,475 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.206.106:8080
+2025-06-03 22:05:48,476 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-03 22:06:06,772 - INFO - 127.0.0.1 - - [03/Jun/2025 22:06:06] "POST /frontend/receive_device_info HTTP/1.1" 200 -
+2025-06-03 22:11:43,503 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-03 22:11:43,941 - DEBUG - https://api.ipify.org:443 "GET /?format=json HTTP/1.1" 200 None
+2025-06-03 22:11:43,949 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.206.106:8080
+2025-06-03 22:11:43,949 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-04 01:08:55,517 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-04 01:08:55,914 - DEBUG - https://api.ipify.org:443 "GET /?format=json HTTP/1.1" 200 None
+2025-06-04 01:08:55,922 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.206.106:8080
+2025-06-04 01:08:55,922 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-04 01:09:04,386 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-04 01:09:04,778 - DEBUG - https://api.ipify.org:443 "GET /?format=json HTTP/1.1" 200 None
+2025-06-04 01:09:04,786 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.206.106:8080
+2025-06-04 01:09:04,786 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-04 01:36:33,906 - DEBUG - Starting new HTTPS connection (1): api.ipify.org:443
+2025-06-04 01:36:34,320 - DEBUG - https://api.ipify.org:443 "GET /?format=json HTTP/1.1" 200 None
+2025-06-04 01:36:34,328 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.206.106:8080
+2025-06-04 01:36:34,328 - INFO - [33mPress CTRL+C to quit[0m

@@ -1,0 +1,4 @@
+1-addDevice
+2-Server
+3-addData
+4-agent

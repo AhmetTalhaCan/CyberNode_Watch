@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CyberNode_Watch</title>
+    <link rel="stylesheet" href="./user.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="cybernode-watch">
+            <h1>CyberNode_Watch</h1>
+            <div>
+                <label for="cyberSelect">Choose a report type:</label>
+                <select id="cyberSelect">
+                    <option value="device-tracker">device-tracker</option>
+                    <option value="software-threat-scanner">software-threat-scanner</option>
+                    <option value="option3">option 3</option>
+                </select>
+            </div>
+            <button id="submit">Get Report</button>
+        </div>
+        <div id="result" style="margin-top: 20px; white-space: pre-wrap;"></div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>
+    <script src="./user.js"></script>
+</body>
+
+</html>

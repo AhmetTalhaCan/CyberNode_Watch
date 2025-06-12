@@ -1,0 +1,10 @@
+{
+    "server_url": "http://127.0.0.1:8080/receive_device_info",
+    "virustotal_api_key": "56fb6b2fcd0fa11030f019af943939e6a296a3d24c7a0cebd52d3ef7c4e3f83b",
+    "db_host": "biomrg5uorif5yzexef3-mysql.services.clever-cloud.com",
+    "db_port": 3306,
+    "db_user": "us7i8fe3s5nxpeoz",
+    "db_password": "QvIoI1LDJft3x04qwgbZ",
+    "db_name": "biomrg5uorif5yzexef3",
+    "log_file": "agent.log"
+}
